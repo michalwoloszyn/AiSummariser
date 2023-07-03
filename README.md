@@ -1,7 +1,7 @@
 
 # Ai summariser 
 
-Paste a link to an article and the summariser will transform length article into clear and concise summary. 
+Paste a link to an article and the summariser will transform the lengthy article into clear and concise summary. 
 
 ## Features
 
