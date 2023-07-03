@@ -7,15 +7,13 @@ Paste a link to an article and the summariser will transform length article into
 
 - Modern user interface
 
--Connection to Rapid api
+- Connection to Rapid api
 
--Integration of react toolkit query
+- Integration of react toolkit query
 
--Copy to clipboard
+- Copy to clipboard
 
--Browser history storage
-
-
+- Browser history storage
 
 
 
@@ -34,8 +32,11 @@ While creating this app I had a clear goal in my mind. I wanted to practice some
 
 https://summariser-ai.netlify.app/
 ## Screenshots
+![1](https://github.com/michalwoloszyn/AiSummariser/assets/78374996/6dae14d9-15e4-4cd1-ac83-56ba49f7da9c)
+![2](https://github.com/michalwoloszyn/AiSummariser/assets/78374996/914a32a7-0c14-47ca-baea-8a922886c1b0)
+![3](https://github.com/michalwoloszyn/AiSummariser/assets/78374996/f93d7c70-af09-4440-9d46-5ac3be5a9a46)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## Thank you for viewing my project. 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michalwoloszyn.com/)
