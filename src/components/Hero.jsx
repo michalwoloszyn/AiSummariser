@@ -22,7 +22,7 @@ const Hero = () => {
       <h2 className='desc'>
         {' '}
         Simplify your reading with AI, using open-source article summariser that
-        transforms lengthy articles intro clear and concise summaries.
+        transforms lengthy articles into clear and concise summaries.
       </h2>
     </header>
   );
